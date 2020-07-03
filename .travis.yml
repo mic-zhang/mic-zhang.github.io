@@ -16,7 +16,3 @@ deploy:
   on:
     branch: master
   local-dir: public
-url:
-  https://mic-zhang.github.io/blog/
-root:
-  /blog/
