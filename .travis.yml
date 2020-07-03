@@ -19,4 +19,4 @@ deploy:
 url:
   https://mic-zhang.github.io/blog
 root:
-  blog
+  /blog/
