@@ -18,6 +18,6 @@ deploy:
     branch: gh-pages
   local-dir: public
 url:
-  https:mic-zhang.github.io/blog
+  https://mic-zhang.github.io/blog
 root:
   blog
